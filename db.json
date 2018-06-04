@@ -1,11 +1,10 @@
-
-  "masakan":[
+"masakan":[
   		{	
-  			'id':'0',
-  			'masakans':'Sup Ikan Salmon',
-  			'desk':'ini sup ikan blablabla',
-  			'gbr':'https://i.ytimg.com/vi/1SU-kWEhdKQ/hqdefault.jpg',
-  			'bahan':[
+  			"id":"0",
+  			"masakans":"Sup Ikan Salmon",
+  			"desk":"ini sup ikan blablabla",
+  			"gbr":"https://i.ytimg.com/vi/1SU-kWEhdKQ/hqdefault.jpg",
+  			"bahan":[
   					{
   						"qty":"2",
   						"satuan":"ekor",
@@ -24,11 +23,11 @@
   					]
   		},
   		{
-  			'id':'1',
-  			'masakans':'Ikan Pindang Sambal',
-  			'desk':'ini sup ikan blablabla',
-  			'gbr':'https://i.ytimg.com/vi/incT-d2quGY/hqdefault.jpg',
-  			'bahan':[
+  			"id":"1",
+        "masakans":"Ikan Pindang Sambal",
+  			"desk":"ini sup ikan blablabla",
+        "gbr":"https://i.ytimg.com/vi/incT-d2quGY/hqdefault.jpg",
+        "bahan":[
   					{
   						"qty":"2",
   						"satuan":"ekor",
@@ -47,5 +46,3 @@
   					]
   		},
   	];
-
-
