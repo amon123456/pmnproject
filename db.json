@@ -1,50 +1,50 @@
 {
-  "masakan":[
-  		{	
-  			"id":"0",
-  			"masakans":"Sup Ikan Salmon",
-  			"desk":"ini sup ikan blablabla",
-  			"gbr":"https://i.ytimg.com/vi/1SU-kWEhdKQ/hqdefault.jpg",
-  			"bahan":[
-  					{
-  						"qty":"2",
-  						"satuan":"ekor",
-  						"nmbahan":"ikan salmon"
-  					},
-  					{
-  						"qty":"3",
-  						"satuan":"siung",
-  						"nmbahan":"bawang putih"
-  					},
-  					{
-  						"qty":"2",
-  						"satuan":"biji",
-  						"nmbahan":"sambal"
-  					}
-  					]
-  		},
-  		{
-  			"id":"1",
-        "masakans":"Ikan Pindang Sambal",
-  			"desk":"ini sup ikan blablabla",
-        "gbr":"https://i.ytimg.com/vi/incT-d2quGY/hqdefault.jpg",
-        "bahan":[
-  					{
-  						"qty":"2",
-  						"satuan":"ekor",
-  						"nmbahan":"ikan pindang"
-  					},
-  					{
-  						"qty":"3",
-  						"satuan":"siung",
-  						"nmbahan":"bawang putih"
-  					},
-  					{
-  						"qty":"2",
-  						"satuan":"biji",
-  						"nmbahan":"sambal"
-  					}
-  					]
-  		},
-  	]
+  "masakan": [
+    {
+      "id": "0",
+      "masakans": "sup ikan salmon",
+      "desk": "ini sup ikan",
+      "gbr": "https://i.ytimg.com/vi/1SU-kWEhdKQ/hqdefault.jpg",
+      "bahan": [
+        {
+          "qty": "2",
+          "satuan": "ekor",
+          "nmbahan": "ikan salmon"
+        },
+        {
+          "qty": "3",
+          "satuan": "siung",
+          "nmbahan": "bawang putih"
+        },
+        {
+          "qty": "2",
+          "satuan": "biji",
+          "nmbahan": "sambal"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "masakans": "Ikan Pindang Sambal",
+      "desk": "ini ikan sambal",
+      "gbr": "https://i.ytimg.com/vi/incT-d2quGY/hqdefault.jpg",
+      "bahan": [
+        {
+          "qty": "2",
+          "satuan": "ekor",
+          "nmbahan": "ikan pindang"
+        },
+        {
+          "qty": "3",
+          "satuan": "siung",
+          "nmbahan": "bawang putih"
+        },
+        {
+          "qty": "2",
+          "satuan": "biji",
+          "nmbahan": "sambal"
+        }
+      ]
+    }
+  ]
 }
